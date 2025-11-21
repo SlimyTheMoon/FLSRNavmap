@@ -101,16 +101,7 @@ var oorpArray = [
 	"ew97"
 ];*/
 var oorpArray = [
-	"br09","br10", "bw11", "bw14", "ca01",
-	"ev01", "ev02", "ev03", "ew05", "ew12",
-	"ew14", "ew17", "ew18", "ew19", "ew20",
-	"ew21", "ew37", "ew43", "ew63", "ew85",
-	"ew97", "fp7_system", "hi10", "hi19",
-	"hlp1", "hlp2", "iw09", "ku17", "li06",
-	"li07", "li08", "li10", "limbo", "no01", 
-	"st02c", "st03b", "unch01", "unch02", "unch03", 
-	"unch04", "unch04b", "unch05", "unch06","unch07", 
-	"unch08", "unch09", "unch10", "vr01"
+	"start"
 ];
 var systemScaleFactor = 1;
 var searchTimedOut = "nope";
