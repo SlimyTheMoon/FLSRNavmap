@@ -89,7 +89,7 @@ var rotationRegex = /rotate = (.*)/g;
 var textRegex = /(<(text|TEXT)>.+?<\/(text|TEXT)>|<(para|PARA)\/>)/g;
 /* oorpArray contains systems which should be considered as OORP or otherwise inaccessible by the universe map. See also:  */
 var oorpArray = [
-	"ew05", "fp7_system", "st02c", "start"
+	"ew05", "fp7_system", "st02c", "st03b", "start"
 ];
 var systemScaleFactor = 1;
 var searchTimedOut = "nope";
